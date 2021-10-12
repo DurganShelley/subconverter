@@ -1,4 +1,4 @@
-https://dashboard.heroku.com/new?template=https://github.com/DurganShelley/api-durgan
+https://dashboard.heroku.com/new?template=https://github.com/DurganShelley/subconverter
 # subconverter
 
 Utility to convert between various proxy subscription formats.
