@@ -1,0 +1,6 @@
+{
+    "name": "api-durgan",
+    "description": "api-durgan on Heroku.",
+    "keywords": ["api-durgan"],
+    "stack": "container"
+}
